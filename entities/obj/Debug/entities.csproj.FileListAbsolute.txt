@@ -1,0 +1,6 @@
+C:\Users\rodrigo\Desktop\tarea1progra\entities\bin\Debug\entities.dll
+C:\Users\rodrigo\Desktop\tarea1progra\entities\bin\Debug\entities.pdb
+C:\Users\rodrigo\Desktop\tarea1progra\entities\obj\Debug\entities.csprojAssemblyReference.cache
+C:\Users\rodrigo\Desktop\tarea1progra\entities\obj\Debug\entities.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo\Desktop\tarea1progra\entities\obj\Debug\entities.dll
+C:\Users\rodrigo\Desktop\tarea1progra\entities\obj\Debug\entities.pdb

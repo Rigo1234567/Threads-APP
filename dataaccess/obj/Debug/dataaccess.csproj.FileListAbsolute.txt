@@ -1,0 +1,9 @@
+C:\Users\rodrigo\Desktop\tarea1progra\dataaccess\bin\Debug\dataaccess.dll
+C:\Users\rodrigo\Desktop\tarea1progra\dataaccess\bin\Debug\dataaccess.pdb
+C:\Users\rodrigo\Desktop\tarea1progra\dataaccess\bin\Debug\entities.dll
+C:\Users\rodrigo\Desktop\tarea1progra\dataaccess\bin\Debug\entities.pdb
+C:\Users\rodrigo\Desktop\tarea1progra\dataaccess\obj\Debug\dataaccess.csprojAssemblyReference.cache
+C:\Users\rodrigo\Desktop\tarea1progra\dataaccess\obj\Debug\dataaccess.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo\Desktop\tarea1progra\dataaccess\obj\Debug\dataaccess.csproj.CopyComplete
+C:\Users\rodrigo\Desktop\tarea1progra\dataaccess\obj\Debug\dataaccess.dll
+C:\Users\rodrigo\Desktop\tarea1progra\dataaccess\obj\Debug\dataaccess.pdb
